@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="104" viewBox="0 0 1080 104" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Python, artificial intelligence and automation</title>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle">
+    <rect x="1" y="1" width="1078" height="102" rx="14" fill="#101827" stroke="#2C3852"/>
+    <rect x="20" y="23" width="308" height="58" rx="9" fill="#1D2B39" stroke="#40586D"/>
+    <circle cx="66" cy="52" r="7" fill="#FFD36B"/><text x="182" y="59" fill="#D4E7F5">Python</text>
+    <rect x="344" y="23" width="362" height="58" rx="9" fill="#25203D" stroke="#53457E"/>
+    <circle cx="382" cy="52" r="7" fill="#AC95F7"/><text x="543" y="59" fill="#CDBBFF">Artificial Intelligence</text>
+    <rect x="722" y="23" width="338" height="58" rx="9" fill="#122C37" stroke="#2F5664"/>
+    <circle cx="762" cy="52" r="7" fill="#6BDEE7"/><text x="902" y="59" fill="#89E2E9">Automation</text>
+  </g>
+</svg>
