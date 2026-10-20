@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#about">About</a> &nbsp;·&nbsp;
   <a href="#focus">Focus</a> &nbsp;·&nbsp;
-  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#-tech-stack">Tech Stack</a> &nbsp;·&nbsp;
   <a href="#connect">Connect</a> &nbsp;·&nbsp;
   <a href="#українською">Українською</a>
 </p>
